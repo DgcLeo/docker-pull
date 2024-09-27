@@ -10,7 +10,7 @@ on:
       TARGET_REPOSITORY:
         description: '所属组织'
         required: true
-        default: 'xlgo'
+        default: 'argesone'
       ARCH:
         description: '系统架构'
         required: true
