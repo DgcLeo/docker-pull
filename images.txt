@@ -1,1 +1,1 @@
-nginx
+willfarrell/autoheal:1.2.0
